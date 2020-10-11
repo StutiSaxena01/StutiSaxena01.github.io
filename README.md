@@ -1,13 +1,10 @@
 # Assignment 2
-
+- The website is hosted at `github`.
+- Access through link :`https://stutisaxena01.github.io/`
 - I have divided the entire website into three pages, `index.html`, `education.html` and `skills.html`. All the three pages are connected using `nav` bar where we can reach from one page to another by clicking on the respective link.The `nav` bar remains same on all the pages.
-
 - The `nav` bar has a button called `Change Mode`. By clicking on `Change Mode`, we can switch from `dark mode` to `light mode` and vice-versa. `Dark mode` is the default mode for every page in the website.
-
 - The `nav` bar also has a `About Me` section as `brand` which leads to the main page (index.html) everytime it is clicked.
-
 - I have also included a `footer` which is also common for all the pages and has blinking text for contact details. The links are active and redirect to my personal instagram, linkedin and facebook profiles.
-
 - I have included `google fonts` and `font awesome` to enhance appearance of website.
 
 ## index.html
